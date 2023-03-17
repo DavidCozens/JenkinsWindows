@@ -1,0 +1,4 @@
+jenkins:
+  systemMessage: "Jenkins master running in windows docker based on the docker image davidcozens/jenkinsWindows."
+
+
